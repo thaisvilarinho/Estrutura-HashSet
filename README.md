@@ -3,5 +3,5 @@ Este respositório foi elaborado como forma de trabalho apresentado para a disci
 
 Trabalho elaborado pelos alunos Luiz Henrique Nunes, Melquisedeque Marcolino da Silva, Thaís Aparecida Vilarinho de Jesus e Thiago V. dos Santos Oliveira
 
-![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
+![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/http://arquivo.devmedia.com.br/REVISTAS/easyjava/imagens/50/3/1.png)
 
