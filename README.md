@@ -3,7 +3,7 @@ Este repositório contém um aplicativo desenvolvido como forma de trabalho apre
 
 Alunos: Luiz Henrique Nunes, Melquisedeque Marcolino da Silva, Thaís Aparecida Vilarinho de Jesus e Thiago V. dos Santos Oliveira.
 
-O aplicativo desenvolvido foi uma agenda telefônica utilizando os métodos que estão presentes na classe Hashset. A principal funcionalidade implementada foi o controle de inclusão de contatos, onde não deve ter duplicidades. Por esse motivo foi escolhido o uso da estrutura Hashset, que implementa a interface Set. Tal interface define que os tipos de coleções que a implemente, não contêm elementos duplicados.
+O aplicativo desenvolvido foi uma agenda telefônica utilizando os métodos que estão presentes na classe Hashset. A principal funcionalidade implementada foi o controle de inclusão de contatos, onde não deve ter duplicidades. Por esse motivo foi escolhido o uso da estrutura Hashset, que implementa a interface Set. Tal interface define que os tipos de coleções que a implemente, não contenham elementos duplicados.
 
 
 
